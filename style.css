@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.navbar-container{
+    display: flex;
+    background-color: rgb(202, 201, 201);
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+.logo-container{
+    display: flex;
+    align-items: center
+}
+.logo-title{
+    font-size: 27px;
+    color: white;
+}
+.menus ul{
+    list-style: none;
+    font-size: 25px;
+    display: flex;
+}
+.item{
+    padding:15px;
+}
+
